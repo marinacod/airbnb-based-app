@@ -80,7 +80,5 @@ This project is under the MIT license. See the file [LICENSE](LICENSE) for more 
 
 ## 🎯 Author
 
-<p>
-	Made by <a href="https://www.linkedin.com/in/victor-moraes-43006a112/">Victor de Moraes</a>
-</p>
+
 
