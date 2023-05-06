@@ -1,0 +1,19 @@
+.home__section{
+    display: flex;
+    /* padding: 30px; */
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.home__productTitle{
+    padding: 0 6%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.home__productTitle > a {
+    cursor: pointer;
+}
+.home__productTitle > a:hover {
+    text-decoration: underline;
+}

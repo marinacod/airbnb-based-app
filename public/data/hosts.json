@@ -1,0 +1,77 @@
+[
+    {
+        "id":0,
+        "src":"https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg",
+        "title":"Casa aconchegante em Arraial do Cabo",
+        "description":"Casa completa com 3 quartos, churrasqueira e piscina a 5 minutos da praia.",
+        "price":"R$350/night"
+    },
+    {
+        "id":1,
+        "src":"https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg",
+        "title":"Loft charmoso no centro de São Paulo",
+        "description":"Loft espaçoso, com decoração descolada e ótima localização na capital paulista.",
+        "price":"R$250/night"
+    },
+    {
+        "id":2,
+        "src":"https://media.nomadicmatt.com/2018/apartment.jpg",
+        "title":"Apartamento de frente para o mar em Fortaleza",
+        "description":"Apartamento completo com vista para o mar, a 10 minutos do centro de Fortaleza.",
+        "price":"R$200/night"
+    },
+    {
+        "id":3,
+        "src":"https://images.unsplash.com/photo-1630699294897-723e02620662?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "title":"Chalé aconchegante em Campos do Jordão",
+        "description":"Chalé em meio às montanhas, com lareira, cozinha completa e decoração rústica.",
+        "price":"R$300/night"
+    },
+    {
+        "id":4,
+        "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+
+        "title":"Casa de praia em Ubatuba",
+        "description":"Casa ampla com piscina, churrasqueira e jardim, a apenas 5 minutos da praia.",
+        "price":"R$500/night"
+    },
+    {
+        "id":5,
+        "src": "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+
+        "title":"Apartamento no coração de Belo Horizonte",
+        "description":"Apartamento com 2 quartos, cozinha completa e vista panorâmica da cidade.",
+        "price":"R$180/night"
+    },
+    {
+        "id":6,
+        "src": "https://source.unsplash.com/3wylDrjxH-E/",
+
+        "title":"Casa de campo em Gramado",
+        "description":"Casa rústica em meio à natureza, com lareira, cozinha completa e churrasqueira.",
+        "price":"R$400/night"
+    },
+    {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1612320648993-61c1cd604b71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80",
+
+        "title": "Villa de Luxo em Bali",
+        "description": "Desfrute do luxo desta bela villa em Bali, com vistas incríveis do oceano",
+        "price": "£500/noite"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1630699294197-6ac1c11ae156?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "title": "Cabana à Beira do Lago em Ontário",
+        "description": "Relaxe nesta encantadora cabana com vista para o lago, rodeada pela natureza",
+        "price": "£250/noite"
+      },
+      {
+        "id": 9,
+        "src": "https://images.unsplash.com/photo-1534595038511-9f219fe0c979?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "title": "Apartamento Moderno em Tóquio",
+        "description": "Experimente o estilo de vida moderno de Tóquio com este apartamento bem localizado",
+        "price": "£200/noite"
+      }
+    
+]
